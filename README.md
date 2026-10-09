@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Dwi Andina! 🎉
+# 👋 Halo, Saya Mursiyah Dwi Erlena! 🎉
 
 ## 📋 Informasi Pribadi
-- **Nama**: Dwi Andina Putri
-- **NIM**: 230605110157
-- **Kelas Praktikum**: B
+- **Nama**: Mursiyah Dwi Erlena 
+- **NIM**: 240605110010
+- **Kelas Praktikum**: F
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
