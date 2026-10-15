@@ -7,8 +7,8 @@
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01]() | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2001/Pengujian) |
-|  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02]() | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2002/row_and_column) |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/file/d/1xvnnioygoJh2nauV1VOtz1ndsQTKqbHc/view?usp=drive_link) | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2001/Pengujian) |
+|  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/drive/folders/1u1bON5TSjd8cdYD-GsgEviPKrUUlZMKw?usp=drive_link) | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2002/row_and_column) |
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/file/d/1t-fAA4TqZADVjpbcT4kP4BupelJDiqfT/view?usp=drive_link "Modul 03") | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2003/alignment) |
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/file/d/1hFA9wyEPgGWJ1Fk9DybHYGvwtytm-2yA/view?usp=drive_link "Modul 04") | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2004) |
 |  5 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 05](https://drive.google.com/file/d/14WNH9cIW6UK-7p8df3pFOit-4h4eM5uy/view?usp=drive_link "Modul 05") | [Program](https://github.com/mursiyahdwierlenaaa/praktikum-mobile-programming/tree/main/Modul%2005) |
